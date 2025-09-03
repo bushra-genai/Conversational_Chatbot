@@ -19,7 +19,7 @@ with st.sidebar:
     st.subheader("Controls")
     model_name = st.selectbox(
         "Groq Model",
-        ["deepseek-r1-distill-llama-70b", "gemma2-9b-it", "llama-3.1-8b- instant"],
+        ["deepseek-r1-distill-llama-70b", "llama-3.1-8b- instant", "gemma2-9b-it"],
         index=2
     )
 
@@ -97,3 +97,4 @@ if user_input:
     # Display bot response
     with st.chat_message("assistant"):
         st.write(response)
+
