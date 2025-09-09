@@ -3,7 +3,7 @@
 
 # 🤖 AI Conversational Chatbot with Groq
 
-**Live App**: (add link after deployment)
+**Live App**: (https://conversationalchatbot-bushra.streamlit.app/)
 
 AI Conversational Chatbot is a smart and interactive assistant powered by **Groq AI models**.  
 It remembers conversation history and provides human-like responses in real-time, making it useful for Q&A, brainstorming, or general guidance.
